@@ -2,11 +2,11 @@
 
 # Netra Kādariya
 
-### Aviation Operations Professional | Operational Analytics | Python, Automation & AI Strategy
+### Aviation Operations Professional | Operational Analytics | Python Automation | AI Strategy
 
-London-based aviation operations professional with 15+ years of experience in complex, high-pressure environments, now building a public technical portfolio at the intersection of **operations, data analytics, automation, and AI-enabled decision-making**.
+London-based aviation operations professional with 15+ years of experience in complex, high-pressure environments, now building a technical portfolio focused on **operational analytics, Python automation, data-informed decision-making, and AI-enabled business improvement**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-GITHUB-USERNAME)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-2E8B57?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
@@ -15,99 +15,74 @@ London-based aviation operations professional with 15+ years of experience in co
 
 ---
 
-## Profile
+## Professional Profile
 
-I come from aviation operations , an environment where clarity, timing, safety, coordination, and judgement are not optional. Over 15+ years, my professional experience has been shaped by operational discipline, real-time problem-solving, process control, and performance under pressure.
+I am an aviation operations professional based in London, with over 15 years of experience in fast-moving operational environments where accuracy, coordination, safety, service delivery, and decision-making under pressure are essential.
 
-I am now channelling that background into a growing technical portfolio focused on **Python, data analytics, automation, and AI strategy**.
+My current portfolio brings that operational experience into the fields of **data analytics, Python automation, AI strategy, and process improvement**. I focus on building practical, well-structured technical work that supports better decisions, clearer workflows, and measurable operational value.
 
-My aim is not simply to write code, but to build work that is structured, explainable, and useful — the kind of technical work that supports better decisions in real operational and business settings.
-
----
-
-## Current Direction
-
-I am developing projects across:
-
-- Python-based data analysis and problem-solving  
-- Data cleaning, wrangling, and exploratory analysis  
-- Operational analytics and performance insight  
-- Automation for repetitive and process-heavy workflows  
-- Generative AI, retrieval-augmented workflows, and agentic systems  
-- Clear technical documentation for public and professional presentation  
+This GitHub profile is designed to showcase projects that connect real-world operational thinking with modern analytical and AI-enabled methods.
 
 ---
 
-## What Makes This Portfolio Different
+## Core Positioning
 
-My work is informed by aviation operations, not just academic exercises.
-
-That means I approach technical projects with attention to:
-
-- reliability  
-- clarity  
-- operational usefulness  
-- measurable impact  
-- process improvement  
-- human decision-making  
-- practical implementation  
-
-This portfolio reflects a professional transition into data and AI, supported by a strong operational foundation.
+- Aviation operations and service delivery experience  
+- Operational analytics and performance improvement  
+- Python-based automation and data analysis  
+- AI strategy and intelligent workflow design  
+- Process improvement and decision-support thinking  
+- Clear technical documentation and business communication  
 
 ---
 
-## Technical Focus
+## Technical Portfolio Focus
 
-| Area | Current Tools & Concepts |
+| Area | Focus |
 |---|---|
-| Programming | Python |
-| Data Analysis | Pandas, NumPy |
-| Visualisation | Matplotlib, Seaborn |
-| Data Workflows | Cleaning, merging, reshaping, exploratory analysis |
-| Automation | Python scripts, workflow improvement, process logic |
-| AI Strategy | Generative AI, RAG concepts, agentic workflows |
-| Documentation | Markdown, GitHub, structured project reporting |
-| Domain Strength | Aviation operations, safety, coordination, process improvement |
+| Operational Analytics | Using data to support planning, performance monitoring, and decision-making |
+| Python Automation | Building scripts and tools to reduce manual work and improve consistency |
+| Data Analysis | Cleaning, preparing, analysing, and presenting structured datasets |
+| AI Strategy | Exploring practical uses of Generative AI, RAG, and agentic workflows |
+| Process Improvement | Applying analytical thinking to real operational problems |
+| Technical Communication | Writing clear documentation, project explanations, and business-oriented reports |
 
 ---
 
-## Portfolio Themes
+## Project Themes
 
 ### Operational Analytics  
-Projects exploring how data can support planning, coordination, resource allocation, and performance improvement.
+Projects focused on performance insight, workflow efficiency, resource planning, and operational decision support.
 
-### Python & Data Projects  
-Structured notebooks and scripts focused on practical data handling, analysis, and communication.
+### Python Automation  
+Practical scripts and prototypes designed to streamline repetitive tasks, improve consistency, and support better process control.
 
-### Automation Experiments  
-Small tools and workflow ideas designed to reduce manual effort and improve consistency.
+### Data Analysis  
+Structured work involving data cleaning, exploratory analysis, visualisation, and interpretation.
 
-### AI Strategy & Intelligent Systems  
-Exploration of how Generative AI, retrieval-based systems, and agentic workflows can support real-world decision-making.
-
-### Technical Communication  
-Well-documented projects that explain the method, reasoning, limitations, and practical value.
+### AI Strategy & Intelligent Workflows  
+Projects exploring how Generative AI, retrieval-augmented systems, and agentic workflows can support business and operational decision-making.
 
 ---
 
-## Featured Work
+## Selected Portfolio Areas
 
-> Selected projects will be added as this portfolio develops.
-
-| Project | Focus | Status |
-|---|---|---|
-| Aviation Operations Analytics | Operational data analysis and insight | In development |
-| Python Data Wrangling Projects | Cleaning, reshaping, and analysing datasets | In progress |
-| AI Workflow Experiments | RAG, automation, and agentic systems | In progress |
-| Analytics Coursework Portfolio | Structured academic and technical projects | Ongoing |
+| Portfolio Area | Description |
+|---|---|
+| Aviation-Inspired Analytics | Data projects shaped by operational experience, performance thinking, and service delivery challenges |
+| Business Process Automation | Python-based tools and workflow ideas for improving efficiency and reliability |
+| AI-Enabled Decision Support | Exploration of practical AI use cases for operations, knowledge retrieval, and workflow support |
+| Data Communication | Clear project documentation explaining methods, assumptions, results, and business value |
 
 ---
 
-## Professional Positioning
+## Professional Value
 
-I am building this GitHub profile as evidence of a serious professional transition: from aviation operations into data analytics, automation, and AI-focused work.
+My strength is the ability to combine operational judgement with analytical thinking.
 
-The long-term aim is to combine operational experience with technical capability — developing solutions that are not only technically sound, but also practical, interpretable, and relevant to organisational performance.
+I understand that in real business environments, technical solutions must be more than technically correct. They must be usable, explainable, reliable, and aligned with operational priorities.
+
+That perspective shapes the way I approach every project in this portfolio.
 
 ---
 
@@ -117,12 +92,11 @@ The long-term aim is to combine operational experience with technical capability
 - **GitHub:** https://github.com/YOUR-GITHUB-USERNAME  
 - **Email:** YOUR-EMAIL@example.com  
 - **Portfolio:** https://your-portfolio-link.com  
-- **Blog / Medium:** https://medium.com/@YOUR-USERNAME  
 
 ---
 
 <div align="center">
 
-### Building data and AI capability with an operational mindset.
+### Operational experience. Analytical thinking. AI-enabled improvement.
 
 </div>
