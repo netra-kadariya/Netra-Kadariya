@@ -4,7 +4,7 @@
 
 ### Aviation Operations Professional | Operational Analytics | Python, Automation & AI Strategy
 
-London-based aviation operations professional with 15+ years of experience in complex, high-pressure environments — now building a public technical portfolio at the intersection of **operations, data analytics, automation, and AI-enabled decision-making**.
+London-based aviation operations professional with 15+ years of experience in complex, high-pressure environments, now building a public technical portfolio at the intersection of **operations, data analytics, automation, and AI-enabled decision-making**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-GITHUB-USERNAME)
@@ -17,7 +17,7 @@ London-based aviation operations professional with 15+ years of experience in co
 
 ## Profile
 
-I come from aviation operations — an environment where clarity, timing, safety, coordination, and judgement are not optional. Over 15+ years, my professional experience has been shaped by operational discipline, real-time problem-solving, process control, and performance under pressure.
+I come from aviation operations , an environment where clarity, timing, safety, coordination, and judgement are not optional. Over 15+ years, my professional experience has been shaped by operational discipline, real-time problem-solving, process control, and performance under pressure.
 
 I am now channelling that background into a growing technical portfolio focused on **Python, data analytics, automation, and AI strategy**.
 
