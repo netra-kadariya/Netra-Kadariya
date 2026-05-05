@@ -6,7 +6,7 @@
 
 London-based aviation operations professional with 15+ years of experience in complex, high-pressure environments, now building a technical portfolio focused on **operational analytics, Python automation, data-informed decision-making, and AI-enabled business improvement**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-netra-kadariya)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-GITHUB-USERNAME)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-2E8B57?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
